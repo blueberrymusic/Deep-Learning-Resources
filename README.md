@@ -16,6 +16,7 @@ download them at https://www.amazon.com/kindle-dbs/fd/kcp
    This directory holds files that aren't figures or notebooks.
    
    * `DL-layer-icons.ai` The icons I use in the book for deep learning layers. The file is stored in the legacy Adobe Illustrator CC format, so it should be readable on any version of Illustrator from then on.
+   * `DL-layer-icons.png` A 300 dpi image version of the AI file, for those without Illustrator.
 
 
 # About the Notebooks 
