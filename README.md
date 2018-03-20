@@ -18,7 +18,7 @@ download them at https://www.amazon.com/kindle-dbs/fd/kcp
    * `DL-layer-icons.ai` The icons I use in the book for deep learning layers. The file is stored in the legacy Adobe Illustrator CC format, so it should be readable on any version of Illustrator from then on.
 
 
-# ABOUT THE NOTEBOOKS 
+# About the Notebooks 
 
   Only three chapters in the book contain explicit code. Chapter 15 discusses
   the Scikit-Learn library, and Chapters 23 and 24 discuss the Keras library. All of
@@ -55,7 +55,7 @@ download them at https://www.amazon.com/kindle-dbs/fd/kcp
 ### Notebooks for Volume 2:
   * https://github.com/blueberrymusic/DeepLearningBookCode-Volume2
      
-# ABOUT THE FIGURES 
+# About the Figures 
 
   The book is illustrated with roughly 1000 original figures. Most were drawn
   by the author in Adobe Illustrator. A few were drawn in Photoshop. All 
