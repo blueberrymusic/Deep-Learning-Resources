@@ -1,15 +1,13 @@
 # "Deep Learning - From Basics to Practice" by Andrew Glassner
 
-## Books available from Amazon
+## This book is no longer available. 
 
-## Buy [Volume 1](http://amzn.to/2F4nz7k)
-## Buy [Volume 2](http://amzn.to/2EQtPR2)
+There's a *much revised and better* version of the book available now, in both 
+electronic and paper forms! Called **Deep Learning: A Visual Approach**,
+you can find it on Amazon at https://smile.amazon.com/dp/B085BVWXNS
 
-## Free Kindle Apps
-
-The books are available from Amazon in Kindle form. Amazon makes a
-free Kindle reader for practically anything with a screen. You can
-download them at https://www.amazon.com/kindle-dbs/fd/kcp
+The materials here are preserved as an archive for those who
+own the previous, Kindle-only edition of the book.
 
 # In This Directory
 
